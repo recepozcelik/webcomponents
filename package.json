@@ -1,0 +1,16 @@
+{
+  "name": "webcomponents-examples",
+  "version": "1.0.0",
+  "description": "Webcomponents Examples",
+  "main": "start-lit-element.js",
+  "scripts": {
+    "start": "polymer serve",
+    "build": "polymer build --auto-base-path && gulp prpl-server",
+    "build:static": "polymer build",
+    "serve": "prpl-server --root server/build"
+  },
+  "dependencies": {
+    "@polymer/polymer": "^3.1.0",
+    "@webcomponents/webcomponentsjs": "^2.2.4"
+  }
+}

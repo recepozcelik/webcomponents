@@ -1,0 +1,7 @@
+{
+  "name": "@webcomponents/litwebcomponents",
+  "version": "0.1.0",
+  "dependencies": {
+    "lit-element": "^2.0.0-rc.5"
+  }
+}
