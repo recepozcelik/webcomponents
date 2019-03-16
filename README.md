@@ -1,5 +1,8 @@
 # webcomponents
 
+Project Purpose: How to transfer values from litelement component to another lit element component
+
+
 **** Previous installement for project
 1- update nodejs to min version 8 
 2- install npm and polymer 
