@@ -1,4 +1,9 @@
-import { LitElement, html } from 'lit-element';
+// use for no npm 
+import { LitElement, html } from 'https://unpkg.com/lit-element@2.0.0-rc.5/lit-element.js?module';
+
+// use for with npm
+// import { LitElement, html } from 'lit-element';
+
 
 export class LitCompMicroApp extends LitElement {
 

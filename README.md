@@ -12,7 +12,7 @@ Project Purpose: How to transfer values from litelement component to another lit
 
 ///// For run project /////
 
-*** run "npm install" for "litwebcomponents"
+*** run "npm install" for "litwebcomponents" or use "https://unpkg.com/lit-element@2.0.0-rc.5/lit-element.js?module" for lit-element on litcompmicroapp.js
 
 *** run "npm install" for "webcomponents" 
 
